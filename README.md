@@ -57,5 +57,3 @@ In the example above, `B-` indicates the beginning of an PII, `I-` indicates an 
     * `tokens`: individual words in the essay (list of strings)
     * `labels` (training data only): BIO labels for each token (list of strings)
 
-# Acknowledgement
-Special thanks to Martin Görner ([@martin-gorner](https://github.com/martin-gorner)) for kind review.
